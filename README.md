@@ -1,1 +1,2 @@
 
+redux, thunk, useDispatch, useSelector
